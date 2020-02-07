@@ -16,11 +16,9 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn React : Testing : Thet Htet Aung
         </a>
       </header>
-    
-    <div> <h1> Testing: Thet Htet Aung</h1></div>
     </div>
   );
 }
